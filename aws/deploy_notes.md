@@ -191,14 +191,3 @@ Screenshot S3 console showing bucket contents → `screenshots/aws/s3_artifacts.
 - Klik **Poor** → klik Predict → screenshot
 
 Save semua di `screenshots/streamlit_cloud/`.
-
----
-
-## Checklist Final Fase 4
-
-- [ ] GitHub repo public dengan semua code
-- [ ] Streamlit Cloud app deployed dengan public URL
-- [ ] 3 screenshot test case di Streamlit Cloud
-- [ ] S3 bucket berisi data + model artifacts
-- [ ] Screenshot SageMaker Studio / EC2 dengan training output
-- [ ] Screenshot S3 console dengan bucket contents
