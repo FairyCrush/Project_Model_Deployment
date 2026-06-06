@@ -10,7 +10,7 @@ Final project Model Deployment.
 ## Struktur project
 
 ```
-NIM_ModelDeployment/
+2802526252_ModelDeployment/
 ├── notebook/
 │   └── 01_eda_modeling.ipynb       # EDA + multi-model experiment
 ├── pipeline/
