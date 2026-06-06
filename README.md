@@ -45,7 +45,7 @@ Final project Model Deployment.
 ### Setup
 
 ```powershell
-cd "C:\Model Deployment\NIM_ModelDeployment"
+cd "C:\Model Deployment\2802526252_ModelDeployment"
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
