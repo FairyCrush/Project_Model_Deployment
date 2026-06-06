@@ -5,7 +5,7 @@ Final project Model Deployment.
 - **Dataset**: C (Genap, Laki-laki) — `data/data_C.csv` (25.000 nasabah × 28 kolom)
 - **Target**: `Credit_Score` (Poor / Standard / Good)
 - **Best model**: RandomForest (test F1-macro 0.7245, Accuracy 0.7426)
-- **NIM**: _isi NIM lo di sini_
+- **NIM**: 2802526252
 
 ## Struktur project
 
@@ -121,8 +121,7 @@ Buka http://localhost:8501
 - **Data egress cost** — download data dari S3 dihitung
 
 ## Link Video Penjelasan
-
-_taro link YouTube / GDrive di sini setelah upload (Soal 4)_
+https://drive.google.com/file/d/1qvSVPNwzCRP9ddpDieHjKOSTiX8RxSwT/view?usp=sharing
 
 ## Catatan
 
