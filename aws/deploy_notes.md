@@ -56,7 +56,7 @@ git push -u origin main
 ### 2.1 Login Streamlit Cloud
 
 1. Buka https://share.streamlit.io
-2. Login pakai akun GitHub lo (klik "Continue with GitHub")
+2. Login pakai akun GitHub anda (klik "Continue with GitHub")
 3. Authorize Streamlit access
 
 ### 2.2 Deploy app
@@ -91,7 +91,7 @@ Pendekatan: **S3 untuk storage + EC2/SageMaker Studio untuk training**.
 ### 3.1 Setup AWS account
 
 1. Login ke https://aws.amazon.com/console
-2. Pakai akun AWS Educate / Free Tier kalo ada
+2. Pakai akun AWS Educate / Free Tier kalau ada
 3. Pilih region: **ap-southeast-1** (Singapore — paling deket Indonesia)
 
 ### 3.2 Install AWS CLI lokal + konfigurasi credentials
